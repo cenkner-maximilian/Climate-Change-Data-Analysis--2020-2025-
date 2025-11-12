@@ -1,0 +1,1201 @@
+Year,Continent,Country,Avg_Temperature(°C),CO2_Emissions(Mt),Sea_Level_Rise(mm),Climate_Risk_Index
+2021,Europe,UK,19.6,978.24,3.57,28
+2022,Asia,India,25.3,770.39,1.47,74
+2022,Asia,Japan,23.2,963.84,3.09,48
+2020,North America,Mexico,20.8,349.49,3.81,23
+2024,Africa,Egypt,33.1,475.82,3.35,86
+2021,South America,Chile,18.9,262.92,1.18,80
+2020,Africa,Nigeria,18,660.9,2,46
+2021,Africa,South Africa,15.3,359.76,2.8,55
+2022,Asia,Japan,18.4,883.98,4.46,58
+2025,Oceania,Australia,30.8,598.4,1.37,27
+2023,South America,Brazil,29.3,354.29,3.54,40
+2023,North America,Mexico,21.7,947.31,4.27,51
+2024,Oceania,New Zealand,25.6,300.57,1.84,42
+2023,Asia,Japan,29.7,694.41,3.16,59
+2022,Oceania,Australia,24.7,696.58,4.33,23
+2020,South America,Brazil,23.9,302.34,4.03,41
+2024,South America,Chile,27.2,590.41,4.76,69
+2021,Asia,India,14.3,805.13,2.88,52
+2020,North America,Mexico,30.5,504.74,2.85,73
+2024,Oceania,New Zealand,10.1,147.1,1.58,25
+2023,Africa,Egypt,18.8,989.88,3.45,90
+2022,North America,USA,20.1,613.43,2.1,41
+2025,South America,Chile,15.5,297.65,4.92,33
+2020,South America,Argentina,21,348.76,3.76,29
+2024,South America,Brazil,16.9,850.51,3.97,85
+2022,South America,Chile,10.4,633.77,4.93,35
+2020,Africa,Nigeria,13.4,980.8,1.77,87
+2022,Europe,Italy,16.6,266.96,1.59,62
+2025,Africa,Egypt,15.9,272.95,1.82,42
+2025,South America,Brazil,34.1,172.96,4.66,88
+2020,Oceania,New Zealand,23.2,394.4,1.87,76
+2023,Oceania,New Zealand,30.2,350.93,1.15,82
+2023,Africa,Kenya,17.2,935.08,4.64,72
+2024,North America,Canada,24.9,698.23,1.49,58
+2021,South America,Argentina,19.3,508.92,1.31,42
+2022,Oceania,New Zealand,23.7,479.79,3.58,83
+2023,North America,USA,14.1,479.23,2.95,31
+2021,Europe,Germany,31.3,882.1,2.9,84
+2021,Oceania,Australia,17.3,708.1,3.15,61
+2024,North America,Mexico,31.5,805.9,4.27,25
+2024,South America,Chile,24.7,578.39,1.75,70
+2024,Oceania,New Zealand,16.3,733.08,4.17,74
+2021,South America,Argentina,30.6,386.25,2.98,66
+2025,Africa,Egypt,32.9,186.35,2.25,23
+2020,Asia,Pakistan,32.2,736.68,3.95,79
+2025,Africa,Egypt,27.3,228.94,2.32,84
+2025,North America,USA,31.9,613.17,1.73,63
+2020,North America,Mexico,32.9,723.43,3.78,75
+2025,Europe,Italy,31.7,202.38,4.62,42
+2023,Africa,South Africa,14.8,480.34,4.86,84
+2020,North America,Mexico,26.6,453.79,3.53,36
+2021,Europe,UK,28.6,542.1,2.06,77
+2025,Asia,Pakistan,22.3,631.78,1.47,86
+2020,Europe,France,14.6,176.98,2.22,82
+2021,South America,Chile,24.7,688.54,4.37,43
+2024,South America,Chile,30,398.7,1.99,29
+2023,Europe,UK,11.1,865.7,3.32,44
+2025,Africa,Nigeria,20.8,502.89,3.75,37
+2020,Africa,South Africa,34.8,594.39,2.49,50
+2022,Asia,Japan,21.5,930.42,1.7,33
+2023,Oceania,Australia,26.6,294.89,3.84,56
+2020,Africa,Nigeria,13.6,291.03,2.55,48
+2022,North America,USA,24.2,289.37,2.12,88
+2021,Africa,Nigeria,11.5,163.12,2.31,76
+2022,Asia,Japan,18.1,862.29,2.75,23
+2020,Africa,Kenya,28,636.18,1.81,45
+2025,Oceania,New Zealand,28.3,718.04,1.2,76
+2021,North America,Mexico,28.6,199.32,1.61,47
+2021,North America,Mexico,21.3,166.88,1.76,75
+2025,South America,Chile,17.7,756.53,3.23,51
+2024,South America,Argentina,34.5,926.03,4.87,55
+2022,Oceania,Australia,17.5,175.98,4.28,58
+2020,Europe,Italy,10.7,420.89,1.83,41
+2024,Oceania,Australia,21.3,272.6,2.02,83
+2022,Oceania,Australia,27.1,245.41,2.51,35
+2024,South America,Chile,30.5,968.17,2.47,65
+2022,Europe,UK,21.1,521.89,3.57,24
+2023,Asia,Indonesia,15.7,620.72,2.79,69
+2022,Africa,South Africa,10.5,430.37,2.28,25
+2024,Asia,China,23.8,577.57,2.73,23
+2024,South America,Chile,31.3,862.97,1.3,49
+2025,Asia,Japan,20,460.87,4.87,40
+2023,Oceania,Australia,19.3,619.87,2.45,78
+2022,Europe,Italy,16.6,565.07,4.17,44
+2020,Asia,Japan,34.7,300.8,3.73,28
+2023,South America,Chile,19.5,556.82,2.74,30
+2022,Europe,UK,26.6,264.91,1.1,55
+2021,Europe,Germany,26.8,694.68,3.25,65
+2023,Africa,Kenya,11.7,624.98,2.17,76
+2024,Asia,Indonesia,32.7,165.92,3.14,77
+2024,South America,Argentina,17,944.04,3.57,68
+2020,Europe,France,22.9,864.25,3.69,21
+2024,Asia,Indonesia,22,408.16,2.51,53
+2021,Africa,South Africa,10.7,140.19,1.8,46
+2023,South America,Brazil,23.6,169.91,1.33,27
+2025,Asia,India,16.9,329.95,2.81,58
+2021,Oceania,Australia,30.8,809.7,1.79,77
+2021,Africa,Kenya,17,275.42,4.28,27
+2022,Africa,Kenya,32.8,272.15,4.78,60
+2023,Africa,Kenya,33.2,860.13,2.79,43
+2020,Africa,Egypt,10.5,367.48,3.12,34
+2023,North America,Mexico,22.3,995.4,2.32,28
+2023,South America,Chile,28.4,498.11,3.8,46
+2022,Oceania,Australia,14.7,355.65,1.36,24
+2020,Africa,Egypt,25.7,856.06,1.5,23
+2023,Europe,France,15.7,247.41,3.02,68
+2025,Europe,Italy,28.3,480.93,4.62,46
+2024,South America,Brazil,11.5,644.7,2.26,69
+2020,Europe,Germany,23.6,584.11,2.4,78
+2025,Asia,Japan,10.8,877.02,4.35,26
+2025,Africa,South Africa,29.2,247.09,3.92,45
+2024,North America,Mexico,29.8,757.82,3.59,79
+2024,Asia,India,27.3,656.37,2.94,50
+2020,South America,Brazil,19.3,984.33,4.89,43
+2023,Africa,Egypt,12,209.54,4.61,31
+2022,Asia,China,19.8,340.01,3.09,52
+2024,Europe,UK,18.4,647.83,4.16,78
+2023,South America,Chile,27.4,432.61,2.55,34
+2022,Europe,Germany,31.1,585.24,1.16,30
+2020,Oceania,Australia,13.2,924.78,3.92,83
+2023,Europe,Italy,15.6,332.17,3.45,82
+2020,Europe,Italy,16.5,352.39,2.96,22
+2025,Africa,South Africa,16.2,596.18,4.74,72
+2023,Africa,Nigeria,23,786.71,4.42,66
+2020,South America,Argentina,14,153.05,4.41,43
+2020,Africa,South Africa,29.4,432.94,1.11,57
+2023,South America,Argentina,14.8,383.57,2.33,40
+2021,Europe,UK,15.7,699.99,2.94,50
+2020,Africa,South Africa,17.2,181.04,2.03,61
+2022,Africa,Nigeria,24.7,562.46,3.83,32
+2025,North America,Canada,15.5,569.22,1.7,59
+2020,South America,Chile,14.3,604.83,2.17,88
+2025,South America,Brazil,30.3,556.94,2.21,60
+2025,South America,Argentina,10.5,897.14,1.95,86
+2025,Asia,Japan,32.3,487.43,1.71,90
+2021,Europe,France,28.9,248.98,3.42,20
+2023,Asia,Indonesia,16.3,588.49,4.44,78
+2025,Asia,Japan,27.7,466.68,2.53,75
+2021,South America,Brazil,32.7,233.33,4.51,42
+2022,Africa,Egypt,13.2,357.31,3.67,64
+2020,South America,Argentina,31.2,886.27,2.24,73
+2022,Africa,South Africa,33.4,706.19,4.37,60
+2024,Oceania,Australia,28,536.52,3.44,56
+2023,Asia,Pakistan,29.1,622.48,2,25
+2023,North America,Canada,22.4,913.79,3.9,82
+2024,Africa,Egypt,31,214.89,4.65,88
+2022,Oceania,New Zealand,33,364.82,4.74,39
+2025,Oceania,New Zealand,11.3,203.35,2.45,27
+2022,Africa,Egypt,17.7,860.61,4.61,70
+2020,Africa,Kenya,27,850.98,1.05,78
+2025,North America,Mexico,21.4,484.28,2.38,79
+2020,Oceania,Australia,23.7,858.31,2.8,35
+2025,Africa,Kenya,26.7,490.77,4.38,65
+2020,Oceania,Australia,22.7,351.52,4.81,85
+2024,Africa,Nigeria,31,813.74,4.38,52
+2025,North America,USA,29.5,998.06,1.31,41
+2021,South America,Chile,14.8,649.85,2.24,34
+2025,North America,USA,34.8,335.78,1.47,52
+2025,South America,Brazil,14.8,736.39,4.72,82
+2023,South America,Brazil,34.7,384.71,4.22,35
+2021,Oceania,New Zealand,22.9,186.1,3.04,36
+2020,Europe,Italy,27,309.59,1.45,75
+2021,South America,Chile,18.4,221.18,1.33,52
+2023,Oceania,Australia,34.7,956.26,3.39,62
+2025,Africa,Nigeria,10.8,339.75,2.67,73
+2025,South America,Argentina,26,337.8,1.12,25
+2022,Europe,UK,34.4,634.05,2.59,56
+2020,North America,USA,19,900.82,2.95,58
+2023,Oceania,Australia,30.4,470.35,2.06,80
+2025,North America,Canada,24.2,169.58,4.49,30
+2023,Europe,Spain,28.8,392.35,1.74,66
+2021,Europe,Germany,23.9,242.89,4.1,56
+2023,Europe,Italy,20.6,674.75,4.21,69
+2020,Africa,Kenya,21.9,850.02,3.09,47
+2022,North America,Mexico,11.7,982.01,3.81,64
+2023,Europe,Italy,10.6,799.55,2.16,71
+2020,Africa,Kenya,11.1,316.06,4.21,58
+2025,Asia,China,29.6,305.18,2.47,63
+2021,Oceania,Australia,12.4,991.64,2.62,43
+2021,Asia,Pakistan,24.1,243.01,2.5,64
+2025,Africa,Egypt,19.9,429.34,2.33,68
+2021,North America,Canada,32.8,987.67,1.91,75
+2021,Europe,Germany,12.7,681.79,1.77,51
+2021,Europe,Spain,15.3,779.97,4.23,26
+2020,South America,Argentina,25.9,825.81,4.35,70
+2020,Africa,South Africa,35,938.36,3.26,74
+2021,Europe,Germany,22.5,246.99,2.87,58
+2022,Europe,Germany,18.8,405.95,3.22,36
+2024,Europe,France,16.4,700.3,3.21,31
+2021,Europe,Germany,26.9,467.72,4.49,84
+2020,South America,Chile,14.7,429.85,2.86,49
+2021,North America,Canada,16.5,806.98,3.78,26
+2021,Oceania,New Zealand,12.1,442.2,4.92,82
+2020,South America,Argentina,24.9,107.53,2.12,61
+2023,Oceania,Australia,16.1,839.06,2.4,46
+2020,Asia,Indonesia,26.5,586.99,4.65,68
+2022,South America,Argentina,17.6,249.58,2.95,51
+2020,South America,Chile,21.7,652.84,4.4,34
+2021,South America,Argentina,13.2,332.32,2.1,24
+2023,Asia,India,33.8,392.54,3.51,37
+2023,South America,Chile,27.2,451.94,3.19,30
+2024,Oceania,Australia,19,295.1,1.53,85
+2024,Europe,Germany,27.3,464.09,3.13,34
+2023,Oceania,New Zealand,30.4,900.86,2.25,54
+2021,North America,Canada,22.4,453.94,4.27,90
+2022,North America,Mexico,27.2,884.97,2.58,35
+2022,Europe,UK,10.1,906.49,4.38,57
+2020,South America,Argentina,18.6,394.11,3.1,67
+2020,Europe,Spain,13.9,474.11,4.81,72
+2024,North America,Canada,31.9,315,1.83,20
+2021,North America,USA,31.4,874.41,4.39,56
+2025,Africa,Kenya,28.1,478.45,4.9,73
+2020,North America,Canada,14.1,790.54,1.84,23
+2024,Africa,South Africa,12,720.06,4.58,84
+2021,Oceania,New Zealand,25.1,208,2.15,41
+2021,Asia,Indonesia,15.1,336.16,4.5,28
+2023,South America,Chile,22.3,152.22,1.87,36
+2022,Asia,Japan,30.4,739.58,1.35,35
+2021,Europe,Germany,31.8,826.62,1.91,78
+2020,South America,Brazil,32.6,209.85,3.77,65
+2020,Asia,Japan,16.3,488.62,4.87,81
+2021,Asia,Indonesia,16.1,432.82,4.05,62
+2024,Asia,Pakistan,10.8,362.8,2.27,72
+2022,Africa,Kenya,12.5,289.63,3.98,65
+2025,North America,USA,14.1,239.01,3.84,57
+2025,Asia,Japan,17.2,844.29,2.87,42
+2022,Europe,Germany,16.5,188.58,1.29,85
+2020,Oceania,Australia,19.9,155.17,4.01,68
+2021,Asia,Japan,14.6,295.96,4,47
+2020,Africa,Egypt,23.5,857.43,2.93,25
+2020,Europe,France,32.5,947.29,1.23,56
+2024,South America,Brazil,23.1,411.88,3.72,28
+2024,North America,Mexico,30.5,991.97,3.27,28
+2024,South America,Brazil,16,678.09,4.88,33
+2025,North America,USA,14.1,134.68,4.73,22
+2023,Asia,Indonesia,24.6,617.35,4.66,69
+2020,Oceania,Australia,34.2,694.54,3.31,61
+2025,North America,USA,20.8,903.28,1.19,84
+2024,South America,Chile,28.2,658.68,3.48,57
+2020,Asia,India,34.5,317.81,2.66,69
+2022,Africa,Nigeria,30.1,545.86,2.18,72
+2023,South America,Argentina,28.2,840.73,4.22,85
+2021,Oceania,New Zealand,24.6,145.2,4.36,64
+2024,South America,Argentina,23.9,997.65,3.63,44
+2022,Oceania,Australia,32.2,606.05,1.67,76
+2020,North America,Mexico,19.1,370.13,3.91,68
+2024,South America,Brazil,10.2,551.43,4.7,34
+2025,North America,Canada,25.2,947.29,4.41,84
+2020,Oceania,Australia,28.1,452.08,4.83,77
+2021,Oceania,Australia,31.9,267.36,2.28,22
+2025,Oceania,Australia,11.3,143.6,4.47,90
+2022,Asia,Indonesia,18.1,966.79,4.38,51
+2023,Africa,Nigeria,30.7,111.87,3.32,49
+2020,Oceania,New Zealand,19,262.33,2.29,76
+2024,Oceania,Australia,24.6,519.01,4.99,26
+2021,North America,Mexico,19.7,711.03,2.55,28
+2025,Europe,Spain,14.9,429.35,3.69,45
+2024,Asia,Japan,24.6,838.5,1.13,55
+2022,North America,USA,23.6,882.52,3.34,53
+2025,Asia,Indonesia,19.4,787.35,4.41,82
+2025,South America,Argentina,34.2,499.07,4.78,53
+2024,Asia,Japan,28.2,860.98,4.91,30
+2023,Oceania,Australia,29.2,344.94,2.48,40
+2024,Oceania,New Zealand,24.5,280.1,2.08,51
+2024,Europe,Italy,12.6,627.42,1.79,42
+2024,North America,Canada,21.8,905.88,4.76,53
+2023,South America,Brazil,27.7,825.22,1.21,63
+2022,Asia,Japan,11,415.02,4.44,82
+2020,South America,Brazil,18.8,188.85,2.61,35
+2023,North America,Mexico,31.9,635.53,2.54,76
+2020,South America,Chile,28.4,545.95,3.65,79
+2025,Europe,Spain,11.3,287.34,2.07,23
+2020,Asia,Indonesia,34.7,904.8,2.95,89
+2023,North America,USA,11.7,998.92,1.53,39
+2020,South America,Argentina,30.5,271.59,2.41,59
+2024,Asia,Japan,23.3,636.96,1.85,85
+2021,Europe,Germany,25.9,297.22,4.22,58
+2023,Oceania,Australia,33.7,585.16,2,87
+2021,Africa,Kenya,22.3,721.34,3.39,78
+2022,Europe,Germany,13.6,977,2.93,70
+2021,South America,Brazil,13.5,595.5,1.56,79
+2024,Europe,Germany,10.9,555.08,1.13,49
+2020,Oceania,Australia,19.5,775.75,4.9,47
+2025,Oceania,New Zealand,23,653.44,3.58,60
+2020,Europe,Spain,25.7,577.63,2.86,56
+2024,Asia,China,24.7,387.19,1.33,48
+2021,Oceania,Australia,30,205.52,2.18,23
+2020,Asia,Pakistan,32.7,228.39,4.65,30
+2021,Asia,Japan,21.5,887.69,4.46,34
+2021,Asia,Indonesia,12.8,957.39,4.04,44
+2024,South America,Argentina,16.2,853.19,1.04,63
+2021,North America,USA,17.1,427.8,3.64,58
+2023,South America,Argentina,14,946.73,3.3,78
+2020,Africa,Kenya,10.5,494.77,3.61,73
+2022,North America,Canada,34.7,350.07,3.93,27
+2023,Oceania,Australia,25.5,811.52,1.38,83
+2022,North America,Canada,10.4,243.07,3.99,28
+2021,South America,Chile,32.3,866.41,1.43,86
+2021,Oceania,New Zealand,30.7,903.38,2.69,31
+2022,Africa,Kenya,14.6,604.08,2.59,83
+2021,Asia,Pakistan,29.6,316.17,4.96,28
+2023,Africa,Kenya,34.9,400.87,1.93,84
+2020,North America,Mexico,24.8,992.78,1.94,88
+2022,Africa,South Africa,21.2,610.7,3.92,37
+2025,South America,Brazil,25.4,239.8,4.71,63
+2020,Africa,Nigeria,16.9,909.93,1.2,48
+2021,Europe,UK,15.7,485.24,1.14,37
+2020,Africa,Nigeria,22.3,130.43,4.07,28
+2022,Oceania,Australia,15.7,236.5,1.88,88
+2021,South America,Brazil,12.5,497.99,2.24,76
+2022,Asia,China,32.6,781.41,1.3,21
+2024,South America,Chile,29.2,843.19,2.11,88
+2023,Asia,India,17.2,869.37,4.47,36
+2023,Europe,Italy,15.8,290.21,2.7,60
+2024,Oceania,New Zealand,22.1,364.25,3.06,36
+2022,South America,Brazil,14.9,512.11,3.2,65
+2023,Africa,Nigeria,18.8,757.62,2.85,70
+2020,North America,Canada,27.5,862.15,4.7,30
+2025,Asia,Pakistan,26.9,359.05,1.02,78
+2021,Oceania,Australia,20.3,931.92,4.07,64
+2020,Africa,Egypt,32,584.2,4.45,61
+2025,North America,Mexico,18.3,382.93,4.47,70
+2020,North America,Mexico,20.5,219.24,2.73,76
+2021,South America,Chile,32,915.49,1.14,43
+2021,Asia,India,27.7,965.65,2.66,24
+2025,Oceania,Australia,18.5,214.62,5,22
+2023,Oceania,Australia,25,367.72,1.76,40
+2025,Europe,Germany,16.2,865.26,1.95,46
+2020,Africa,Kenya,18.5,259.46,2.58,59
+2021,South America,Chile,14.8,504.03,4.05,50
+2020,Oceania,New Zealand,19.5,865.89,2.08,24
+2025,Africa,Kenya,28.9,484.03,1.02,28
+2020,Oceania,New Zealand,32.4,470.8,2.07,78
+2025,South America,Chile,27.3,494.59,4.94,46
+2020,Oceania,New Zealand,30.1,361.74,1.72,64
+2021,North America,Mexico,29,560.61,1.89,21
+2020,Oceania,Australia,14.3,812.8,3,67
+2025,Africa,South Africa,28.7,703.38,1.91,90
+2024,South America,Chile,21.8,676.38,3.91,34
+2025,North America,USA,14,136.92,1.29,80
+2020,South America,Argentina,34.5,815.47,1.64,26
+2024,Oceania,New Zealand,10.5,803.99,3.54,81
+2020,North America,Canada,31.9,648.09,2.49,70
+2022,Oceania,Australia,32.7,674.91,1.2,42
+2020,South America,Argentina,29.4,349.22,1.69,81
+2021,Asia,Indonesia,28.7,816.64,3.07,35
+2022,Oceania,New Zealand,20.5,496.31,2.35,64
+2022,South America,Brazil,26.3,584.2,3.36,33
+2020,North America,Canada,19,319.47,3.26,62
+2023,North America,USA,13.2,675.56,4.41,90
+2021,Europe,France,19.2,944.72,2.39,21
+2020,North America,Mexico,28.1,378.51,1.53,70
+2022,Africa,Kenya,22.5,748.72,2.74,86
+2022,North America,Mexico,17.3,242.17,1.51,55
+2023,South America,Argentina,15.3,620.66,1.4,33
+2022,Oceania,New Zealand,31.8,283.96,3.68,71
+2025,Asia,India,10.2,476.83,3.79,51
+2022,North America,Canada,19.2,669.91,1.06,84
+2021,Asia,Pakistan,15.9,671.7,4.69,72
+2020,South America,Chile,18.6,183.45,2.43,82
+2020,Asia,India,33.5,660.46,1.53,60
+2020,Europe,UK,23.4,488.63,2.57,58
+2023,North America,Mexico,17.5,473.44,1.73,25
+2025,Oceania,Australia,21.2,633.34,4.25,72
+2024,North America,USA,22.5,845.65,2.72,86
+2022,Africa,Egypt,14.2,414.1,1.44,60
+2023,North America,Canada,20.2,995.76,2.11,71
+2025,North America,Mexico,20.8,837.29,4.91,78
+2020,South America,Argentina,27.3,900.59,2.62,82
+2021,Europe,Germany,18.2,565.19,4.62,84
+2024,North America,Mexico,33.2,861.35,4.16,87
+2021,Africa,South Africa,18.5,345.19,2.85,33
+2020,Asia,India,34.2,867.62,4.48,67
+2020,Oceania,Australia,20.4,589.86,1.09,41
+2023,Oceania,Australia,27.9,587.08,4.24,86
+2020,Oceania,New Zealand,10.9,231.39,1.79,86
+2020,North America,USA,21,282.45,2.06,39
+2021,Europe,Germany,13.6,644.02,4.17,61
+2020,Asia,India,33.2,869.58,1.47,66
+2021,Europe,Italy,23.6,727.39,1.6,87
+2023,North America,Canada,13.2,646,2.05,54
+2024,Oceania,New Zealand,30.9,290.61,3.91,83
+2025,South America,Brazil,26.2,688.38,1.82,41
+2024,North America,USA,18.4,501.46,2.42,47
+2022,Europe,UK,34.4,743.68,1.96,66
+2021,Asia,Pakistan,26.5,378.3,4.63,65
+2020,North America,USA,14.8,505.41,2.8,59
+2024,Europe,Italy,26.1,806.17,3.65,43
+2023,South America,Brazil,27.5,207.2,2.69,21
+2020,Europe,Italy,20.8,126.88,1.91,65
+2025,Africa,Egypt,30.7,727.44,3.76,70
+2025,South America,Chile,19.1,267.89,4,37
+2024,Asia,Indonesia,16.1,342.72,3.87,60
+2024,Europe,Germany,22.5,296.26,4.29,24
+2024,Asia,Japan,27.6,239.53,3.22,35
+2023,South America,Brazil,21.1,219.38,4.41,45
+2021,North America,USA,18.8,702.97,2.03,26
+2021,South America,Argentina,16.9,827.79,3.95,42
+2022,Oceania,Australia,31.2,726.77,1.67,79
+2020,Oceania,New Zealand,11.4,532.13,3.81,36
+2024,Africa,Nigeria,31.1,782.85,3.7,33
+2021,Africa,Kenya,23.5,700.43,3.22,41
+2023,Oceania,New Zealand,21.4,869.01,1.54,35
+2020,Asia,China,31.8,948.03,2.42,41
+2020,Africa,Nigeria,22,867.62,4.81,56
+2020,Africa,Egypt,20.4,664.32,1.95,89
+2025,Oceania,Australia,26.5,924.88,1.94,38
+2023,South America,Brazil,21.5,354.3,2.95,24
+2023,Oceania,Australia,17.6,365.6,4.76,84
+2020,South America,Brazil,30.8,574.33,2.06,63
+2022,Asia,India,30.3,824.73,2.29,76
+2023,Africa,South Africa,23.6,384.2,3.64,85
+2021,Africa,Nigeria,10.8,832.79,1.18,24
+2024,Asia,India,34.6,747.35,2.02,26
+2020,Europe,UK,26.6,665.42,4.07,21
+2022,Africa,Egypt,20.6,386.84,4.97,21
+2021,Europe,France,20.4,300.59,1,51
+2023,Africa,South Africa,23.5,724.37,3.48,45
+2021,Oceania,Australia,31.3,124.77,2.4,65
+2023,Africa,Kenya,17.3,495.56,3.75,88
+2020,Europe,Spain,24.6,639.12,3.43,90
+2024,Africa,Nigeria,12.9,785.52,4.36,76
+2025,Africa,Kenya,29.7,210.79,1.6,45
+2023,Asia,Japan,24.4,971.29,2.78,28
+2022,South America,Brazil,29.7,972.99,4.88,21
+2022,Africa,Kenya,28.5,606.5,3.46,90
+2021,Asia,China,21.5,863.54,3.36,89
+2023,South America,Brazil,19.8,656.36,1.14,74
+2023,Africa,Egypt,29.4,217.4,3.8,74
+2025,North America,USA,17.1,995.36,4.5,80
+2023,Africa,Egypt,19.6,233.23,1.08,62
+2024,Africa,Egypt,14.2,486.01,2.94,84
+2024,South America,Brazil,32.9,745.57,1.39,84
+2021,Oceania,Australia,22,411.53,1.48,42
+2024,North America,Mexico,26.8,965.17,4.37,90
+2021,South America,Argentina,17,989.24,3.12,77
+2024,North America,Mexico,14.2,439.88,1.59,55
+2020,Oceania,New Zealand,21.8,940.93,1.01,71
+2022,Oceania,New Zealand,28.8,306.02,3.97,50
+2023,North America,Mexico,25.7,136.63,1.92,85
+2022,Oceania,Australia,12.9,992.69,4.03,47
+2024,Africa,South Africa,28.3,428.95,2.5,83
+2021,Africa,Nigeria,11.2,490.14,1.81,29
+2020,Africa,Nigeria,29.7,989.45,1.65,86
+2025,South America,Chile,27.4,392.25,3.02,76
+2020,Europe,Germany,13.4,635.75,1.89,56
+2025,Africa,Egypt,24.5,516.76,2.71,35
+2020,Asia,China,18.2,913.5,3.77,41
+2024,Europe,Italy,16.2,966.75,3.87,80
+2025,Africa,South Africa,11.7,178.94,4.97,37
+2023,South America,Brazil,19.3,485.38,3.74,49
+2020,North America,Mexico,27.9,423.26,3.37,44
+2025,Africa,South Africa,25.4,646.83,2.57,37
+2023,Europe,France,27,852.13,1.8,79
+2023,Europe,France,29.3,200.26,2.8,30
+2025,Africa,South Africa,32.4,914.83,4.86,74
+2025,Oceania,New Zealand,19.5,914.66,1.05,85
+2024,Africa,South Africa,18,837.97,2.98,27
+2025,North America,Canada,22.5,319.33,3.19,34
+2025,North America,USA,34.5,920.4,2.13,58
+2022,Oceania,Australia,34.8,862.32,1.45,34
+2025,North America,Mexico,33.8,411.79,2.79,51
+2020,Oceania,New Zealand,11.8,689.68,2.03,70
+2021,Oceania,New Zealand,24.8,891.86,1.04,28
+2021,Europe,Italy,13.3,500.39,3.39,68
+2024,Europe,Italy,29.1,404.46,4.24,53
+2020,Asia,Japan,12.3,824.59,1.87,33
+2023,Oceania,New Zealand,24.4,824.05,1.68,61
+2024,South America,Brazil,34.2,889.63,4.63,33
+2025,North America,USA,23.9,421.35,4.51,56
+2022,Asia,Pakistan,20.5,265.45,3.74,46
+2020,Oceania,New Zealand,12.5,461.93,4.95,44
+2020,Asia,China,25.7,207.67,1.5,41
+2022,South America,Brazil,17.4,783.36,1.1,52
+2024,Oceania,Australia,26.2,705.89,4.83,81
+2023,Oceania,Australia,14.7,743.23,1.17,44
+2024,Africa,South Africa,14.8,898.47,1.77,44
+2022,Africa,South Africa,12.8,592.62,1.46,23
+2024,North America,Mexico,31.3,964.82,3.55,30
+2024,Asia,India,24.9,970.62,2.14,42
+2023,North America,Mexico,34.1,349.14,3.92,26
+2023,North America,Mexico,18.2,385.2,2.61,20
+2022,Europe,UK,15,698.69,3.86,88
+2022,Europe,Italy,32.9,731.78,1.42,35
+2025,North America,Canada,30.9,366.95,3.21,34
+2020,Asia,Pakistan,30.8,298.76,1.81,88
+2024,Oceania,Australia,22.7,342.48,3.71,78
+2022,South America,Brazil,25,203.62,3.28,32
+2023,South America,Argentina,30.5,361.17,1.47,23
+2025,North America,USA,24,262.47,2.58,26
+2025,Oceania,New Zealand,13.7,963.72,1.26,58
+2024,Oceania,New Zealand,18.6,933.32,3.98,51
+2025,Europe,Spain,26.4,443.88,3.31,40
+2025,Oceania,Australia,20.7,737.34,1.22,53
+2020,Oceania,New Zealand,17.4,547.77,2.65,57
+2020,Oceania,Australia,18.8,285.68,2.76,29
+2023,Europe,UK,14,703.45,2.78,25
+2023,Africa,Kenya,27.1,894.83,4.45,20
+2025,Oceania,New Zealand,19.8,852.98,1.77,27
+2022,Europe,Spain,30.5,980.58,4.23,79
+2022,Africa,Nigeria,32.2,512.12,4.72,60
+2021,Europe,Italy,26.5,741.92,1.75,45
+2020,Africa,Kenya,21.6,742.75,1.22,42
+2020,South America,Argentina,10.3,319.41,1.51,77
+2021,South America,Brazil,17,621.44,2.15,33
+2022,Africa,Kenya,31.3,492.74,4.32,44
+2021,South America,Brazil,21.9,773.55,1.12,25
+2023,Oceania,New Zealand,23.8,857.38,2.68,40
+2024,Europe,Spain,27,482.16,3.2,65
+2022,Europe,Germany,12.6,755.44,1.53,71
+2021,Europe,Italy,29.8,636.25,1.75,34
+2023,Oceania,Australia,30.5,367.72,1.34,88
+2021,South America,Argentina,21.5,272.28,3.8,28
+2022,Europe,Germany,30.4,533.89,1.87,67
+2020,North America,USA,26.8,706.87,3.8,83
+2024,North America,Canada,21.3,437.5,4.41,40
+2024,Asia,Pakistan,25.2,673.26,1.77,58
+2021,Africa,Kenya,18.2,826.38,4.75,30
+2024,Oceania,Australia,13.2,987.78,4.82,30
+2025,Africa,Kenya,12.2,645.12,3.46,41
+2021,Europe,France,13.7,945.35,4.05,73
+2022,Oceania,New Zealand,12,113.13,2.57,62
+2023,North America,Canada,30.3,484.69,3.23,72
+2021,Oceania,New Zealand,25.4,806.8,3.1,27
+2025,Oceania,New Zealand,17.5,120.82,1.79,45
+2021,Oceania,New Zealand,34,308.84,3.6,37
+2024,Africa,Kenya,17.1,660.48,3.07,47
+2023,South America,Brazil,27,487.5,2.88,53
+2023,Europe,UK,22.6,914.14,1.46,61
+2023,Asia,Pakistan,18.1,882.91,4.83,56
+2022,Africa,South Africa,22.3,963.01,4.49,86
+2021,Africa,Nigeria,30.8,838.19,2.47,58
+2024,Oceania,New Zealand,19.3,842.67,2.27,85
+2024,Oceania,New Zealand,24.9,625.4,4.64,66
+2023,Europe,Italy,27,160.54,2.99,88
+2022,Asia,Indonesia,13.9,776.15,3.05,59
+2024,Europe,UK,19.7,154.93,1.51,39
+2024,Oceania,New Zealand,16.8,297.59,4.42,50
+2022,Europe,Italy,20,916.13,3.19,75
+2023,Oceania,Australia,31.5,220.06,1.47,26
+2021,North America,Mexico,14.9,121.79,2.1,89
+2025,North America,Mexico,33.3,615.49,2.91,64
+2025,North America,USA,11.2,597.44,2.72,89
+2021,South America,Chile,11.6,593.76,2.02,27
+2020,South America,Chile,34,605.43,1.03,75
+2021,North America,Mexico,33.4,657.53,1.53,77
+2025,Asia,Pakistan,25.1,642.57,2.09,53
+2021,Europe,UK,28.5,442.87,2.22,78
+2021,Asia,India,29.9,762.18,3.73,72
+2020,Asia,Japan,27.8,878.38,4.63,77
+2025,North America,Canada,33.3,882.66,2.85,67
+2021,South America,Chile,34.6,749.69,2.28,83
+2021,South America,Argentina,29.6,893.5,2.1,82
+2024,Oceania,New Zealand,18.8,398.76,1.4,44
+2025,Africa,Kenya,10.6,887.94,1.35,52
+2020,Africa,Nigeria,29.7,610.28,3.25,37
+2021,Europe,Italy,29.8,638.32,3.08,53
+2025,Asia,Japan,14.7,341.33,4.69,35
+2020,North America,Mexico,23.1,583.16,4.28,45
+2022,Asia,China,31.5,717.03,1.5,32
+2023,Asia,India,32,445.65,4.2,57
+2022,Asia,Pakistan,30.7,257.07,2.38,35
+2023,Asia,China,32.9,219.03,2.87,77
+2024,North America,Canada,11.1,265.01,1.44,41
+2023,Asia,Japan,10.7,713.93,3.4,47
+2020,Africa,Nigeria,34.4,587.19,4.03,64
+2025,North America,Mexico,29.9,597.82,4.29,81
+2020,North America,Canada,34.4,110.25,4.59,33
+2021,Africa,South Africa,28.4,477.39,3.99,28
+2023,Africa,South Africa,31.6,256.71,1.24,76
+2020,Africa,Egypt,31.2,567.88,3.43,83
+2021,Asia,Japan,24.2,872.07,4.52,77
+2025,North America,Mexico,32.2,198.93,2.78,56
+2020,Europe,Germany,29.8,154.2,2.16,85
+2021,Africa,South Africa,34.6,490.99,1.77,50
+2025,North America,Canada,23.5,803.95,4.21,61
+2024,Asia,Pakistan,10.5,955.95,1.29,58
+2020,Oceania,Australia,31.3,216.48,4.15,39
+2021,Europe,Italy,33.1,449.91,3.14,82
+2025,Oceania,Australia,16.7,493.04,4.71,87
+2020,South America,Brazil,19.2,563.19,3.61,45
+2024,Asia,Japan,28.8,484.43,2.03,44
+2020,South America,Chile,30.4,781.84,3.74,79
+2020,Africa,Egypt,19.3,575.09,4.87,35
+2025,Africa,Kenya,28.5,993.13,1.56,69
+2021,Africa,Nigeria,13.6,214.92,1.29,64
+2020,Europe,France,16.7,151.87,4.5,31
+2021,Asia,Japan,34.9,219.87,4.17,31
+2024,Asia,China,24.6,887.37,2.85,60
+2025,Asia,India,26.7,757.18,1.09,26
+2024,Asia,India,13.3,927.08,1.78,84
+2025,Oceania,Australia,24.3,152.3,4.63,28
+2023,North America,Canada,23.8,448.81,1.1,78
+2025,South America,Brazil,32.4,159.1,3.83,59
+2021,North America,USA,14.9,884.45,1.35,20
+2025,Europe,Germany,12.3,292.85,4.38,84
+2022,Europe,UK,23.2,976.27,1.8,39
+2025,Europe,Spain,32.4,473.2,2.08,73
+2023,Africa,Nigeria,21.4,559.31,4.07,63
+2021,Oceania,New Zealand,33,154.38,4.13,85
+2020,Oceania,New Zealand,10.4,275.33,2.65,31
+2025,Oceania,New Zealand,20,916.76,3.19,52
+2021,Asia,Japan,33.4,349.16,3.11,56
+2023,North America,USA,19,473.02,2.36,84
+2024,South America,Brazil,21.4,483.66,2.53,72
+2022,North America,Canada,27.7,573.55,3.98,49
+2023,North America,Canada,10.4,891.53,2.25,46
+2021,Europe,Spain,11.7,671.33,3.01,31
+2024,Europe,Spain,10.9,514.39,4.21,21
+2021,Oceania,Australia,19.8,715.9,2.83,72
+2020,Asia,China,30.5,319.63,1.92,60
+2024,Oceania,Australia,34.7,288.68,4.37,25
+2020,South America,Chile,29.4,528.64,1.17,33
+2022,Africa,Kenya,34.2,126.44,4.3,74
+2020,North America,Mexico,21.4,266.3,3.16,72
+2024,Oceania,Australia,29.6,810.11,4.61,74
+2022,Europe,Spain,12.5,514.85,4.75,51
+2025,Europe,UK,20.6,525.09,2.58,35
+2025,Africa,Kenya,21.1,734.58,4.65,27
+2025,Asia,India,27.4,631.31,4.65,87
+2020,Africa,Nigeria,14.6,256.8,3.96,41
+2025,North America,Mexico,20.9,301.79,3.14,83
+2023,South America,Brazil,10.6,962.48,1.57,86
+2025,Asia,Japan,29.9,525.04,2.83,65
+2025,North America,Mexico,18.5,640.89,2.55,80
+2020,Africa,Kenya,34.9,999.55,1.69,28
+2022,Africa,Egypt,30.1,675.97,3.3,41
+2021,South America,Argentina,28.4,928.13,4.35,74
+2021,Europe,Germany,33.2,115.16,1.51,52
+2025,Europe,France,25.3,664.16,4.42,66
+2021,Africa,Kenya,21.7,181.7,4.25,30
+2020,South America,Argentina,34.5,805.44,4.15,56
+2020,Africa,Nigeria,10.6,943.75,4.95,66
+2025,Africa,Egypt,26,734.34,1.36,23
+2020,North America,USA,24.3,219.46,1.69,66
+2024,South America,Brazil,12.5,906.57,4.77,36
+2020,Europe,France,19.5,561.12,4.33,82
+2022,Africa,Egypt,13.9,739.58,1.22,90
+2024,Africa,South Africa,18.2,199.51,1.89,72
+2025,North America,Canada,15,980.58,4.87,27
+2025,South America,Argentina,20.3,326.87,3.84,67
+2025,Africa,South Africa,31.7,601.8,1.82,45
+2022,Oceania,Australia,21.6,459.16,2.77,30
+2024,Asia,Japan,23,683.6,3.73,38
+2023,Asia,China,31.6,456.77,3.9,42
+2024,South America,Brazil,27.8,149.78,4.26,72
+2023,South America,Argentina,10.2,583.16,3.19,39
+2024,North America,Mexico,16.1,707.85,2.88,52
+2021,Africa,Kenya,17.7,382.23,3.37,73
+2025,North America,Canada,32.6,397.16,2.21,66
+2024,Africa,Nigeria,26.5,557.87,4.16,68
+2023,Asia,Pakistan,18.2,435.79,1.68,74
+2023,North America,Mexico,32.3,515.32,2.56,75
+2022,Asia,India,10.8,754.96,2.75,40
+2023,Asia,India,23.1,925.21,1.37,52
+2025,Europe,UK,28.6,578.66,2.5,49
+2024,North America,Canada,13.4,313.78,3.97,66
+2024,Europe,Italy,10.7,242.5,3.22,76
+2022,South America,Chile,10.6,512.05,1.21,26
+2025,Asia,Japan,16.6,729.88,3.02,45
+2020,Asia,China,31,843.58,3.87,71
+2022,Africa,South Africa,28.5,525.3,3.71,62
+2021,South America,Argentina,33.8,632.28,1.88,56
+2022,North America,Mexico,26.5,352.86,4.04,65
+2022,Africa,Egypt,28.4,415.31,4.11,84
+2025,South America,Chile,19.3,180.95,3.81,68
+2025,Europe,UK,11.2,533.62,2.48,56
+2023,Europe,France,15.8,129.76,4.66,43
+2023,Europe,UK,27,430.45,4.84,50
+2020,South America,Argentina,34.9,516.15,1.2,28
+2021,North America,Mexico,15.5,982.45,3.8,22
+2022,North America,Mexico,14.6,494.1,2.97,63
+2025,Oceania,Australia,26,655.88,3.8,71
+2022,North America,USA,24.1,637.15,1.81,46
+2021,Asia,Pakistan,26.5,173.47,2.72,73
+2025,Asia,Indonesia,17.6,889.43,1.84,81
+2020,Africa,South Africa,25.2,775.8,1.6,27
+2022,Oceania,New Zealand,33.8,785.69,3.95,72
+2021,North America,USA,10.4,551.51,4.23,32
+2021,Asia,China,10.7,282.93,2.5,29
+2023,Oceania,Australia,22.2,338.79,4.52,65
+2020,South America,Argentina,23.2,413.46,3.42,29
+2021,Europe,Spain,26.7,393.84,4.17,52
+2020,Asia,India,10.6,722.23,3.92,70
+2025,Africa,South Africa,16.7,216.09,4.11,82
+2023,Europe,Germany,28.4,741.42,1.02,86
+2022,South America,Brazil,35,945.93,3.1,60
+2022,North America,Mexico,23.5,780.97,4.91,59
+2022,South America,Argentina,15.8,198.4,4.06,47
+2024,Africa,Nigeria,30.7,139.81,2.79,41
+2021,Africa,Egypt,10.8,700,3.6,76
+2020,North America,Canada,31.4,771.84,2.75,39
+2023,South America,Brazil,24.6,353.4,4.72,35
+2024,Africa,South Africa,11.3,569.43,4.46,48
+2023,Oceania,Australia,28.7,828.97,1.02,25
+2022,Oceania,New Zealand,18.2,979.47,1.53,34
+2020,Europe,France,35,256.44,1.24,62
+2021,Europe,France,13.6,153.67,4.54,58
+2023,Africa,Kenya,24.6,571.3,3.72,35
+2021,Africa,South Africa,17.6,661,4.73,22
+2022,Europe,Spain,29.8,203.72,1.87,47
+2023,Africa,Egypt,28.2,467,4.81,80
+2021,North America,Canada,20.9,859.56,1.24,23
+2023,Africa,Kenya,33.5,534.2,2.82,85
+2022,Africa,Egypt,18.7,992.86,2.28,50
+2020,Europe,UK,28.3,345.4,1.87,41
+2021,Oceania,Australia,17.1,813.41,1.21,72
+2023,Oceania,Australia,30.4,274.56,4.54,87
+2025,Asia,India,24.7,255.86,3.12,87
+2023,Asia,Pakistan,15.8,163.62,2.54,26
+2021,Asia,Japan,17,156.45,3.83,90
+2024,Oceania,New Zealand,22.1,606.08,1.43,66
+2025,Europe,Italy,24,802.75,4.65,65
+2023,Asia,Indonesia,24.1,475.68,2.89,43
+2024,Asia,China,25.5,327.8,3.81,26
+2023,Oceania,Australia,18.6,640.31,4.31,73
+2023,Europe,France,23.4,468.57,1.74,83
+2022,Europe,UK,17.2,794.65,2.44,47
+2021,North America,Canada,17.3,305.24,3.08,74
+2025,South America,Argentina,17.4,385.41,4.11,27
+2024,Oceania,Australia,29.9,288.89,3.51,65
+2023,Asia,China,12.7,361.27,4.11,70
+2025,Africa,Kenya,28.2,162.03,3.3,74
+2024,Africa,Nigeria,15.7,125.5,1.84,36
+2024,Europe,UK,16.2,211.83,1.42,68
+2022,Oceania,Australia,29.7,490.94,2.81,71
+2023,South America,Chile,20.6,533.6,2.7,42
+2024,Oceania,Australia,14.3,251.82,4.08,40
+2024,South America,Brazil,18.5,789.42,3.26,71
+2024,South America,Brazil,17,213.85,1.93,60
+2020,Oceania,New Zealand,15.8,443.09,2.19,66
+2023,Asia,Pakistan,31.4,744.67,4.31,54
+2025,Asia,Japan,14.7,709.12,4,82
+2021,Africa,Egypt,28,166.44,4.29,31
+2021,Oceania,Australia,21.3,835.08,1.06,26
+2023,Asia,Pakistan,15.6,890.35,2.17,72
+2023,Oceania,Australia,20.3,138.35,3.52,63
+2021,Oceania,New Zealand,21.7,109.56,5,37
+2022,North America,Canada,27.3,524.52,4.41,82
+2023,Africa,Kenya,23.4,628.58,4,66
+2022,Europe,France,21.8,791.88,3.52,31
+2023,Asia,Japan,11.5,274.93,2.52,76
+2021,South America,Chile,17.7,857.78,3.15,20
+2022,Africa,Kenya,22,285.23,1.44,33
+2024,South America,Chile,15.9,986.19,4.63,73
+2022,Europe,Spain,24.1,726.83,2.67,20
+2025,Asia,Pakistan,26.3,723,1.48,60
+2022,North America,Mexico,26.5,843.87,4.53,25
+2025,Europe,UK,25.7,595.25,4.85,61
+2022,South America,Chile,16,468.21,2.18,46
+2021,Africa,South Africa,23.2,328,1.49,87
+2022,Europe,Italy,16,462.5,3.99,86
+2025,Europe,France,27.5,438.56,1.71,24
+2025,Africa,Egypt,26.1,398.66,4.41,73
+2021,North America,USA,18.1,696.11,1.32,37
+2024,Oceania,New Zealand,27.4,287.74,1.17,78
+2023,Asia,Japan,25.4,486.94,2.44,30
+2021,North America,Mexico,16.1,758.04,2.8,36
+2024,Asia,India,15.3,247.55,3.88,21
+2023,Oceania,Australia,34.3,127.99,2.45,83
+2021,North America,Canada,10.7,841.55,4.92,26
+2023,Europe,UK,30.6,993.53,4.31,54
+2021,Africa,Kenya,24.4,668.23,1.16,36
+2023,Africa,Nigeria,33.4,114.08,3.21,89
+2023,Asia,Indonesia,25.9,449.78,1.92,53
+2023,Asia,Pakistan,16,106.81,2.07,58
+2021,Asia,Japan,24,830.7,3.5,81
+2023,South America,Argentina,34,205.04,3.61,35
+2025,Asia,China,26.9,746.81,4.02,36
+2023,Oceania,New Zealand,12.2,784.91,2.62,60
+2024,North America,Mexico,13,150.94,1.19,65
+2020,South America,Argentina,16.6,292.44,2.13,47
+2022,North America,Canada,11.9,694.6,1.96,20
+2022,Africa,Kenya,15.3,371.74,2.4,53
+2024,North America,USA,27.3,810.55,1.36,59
+2022,Oceania,Australia,27.1,592.03,4.53,20
+2025,Europe,France,11,141.75,3.31,77
+2020,South America,Argentina,22.1,894.35,3.9,85
+2024,Asia,China,18.6,112.24,3.11,62
+2021,Oceania,New Zealand,17.1,974.67,4.18,45
+2021,South America,Chile,34.1,396.02,4.14,81
+2023,Oceania,Australia,15,575.23,4.07,56
+2023,Oceania,New Zealand,20,202.82,4.52,58
+2024,South America,Chile,17.3,451.48,2.72,64
+2024,Europe,UK,25.9,929.46,4.68,67
+2023,South America,Brazil,34.1,779.7,1.51,43
+2021,North America,Canada,18.3,860.83,1.47,40
+2024,Africa,Nigeria,17.9,180.73,4.4,47
+2020,South America,Chile,33,201.45,4.03,42
+2024,Africa,South Africa,28.6,238.65,2.55,62
+2023,Africa,Nigeria,34,977.94,1.71,53
+2022,Oceania,New Zealand,19.3,290.34,3.74,30
+2021,Africa,Kenya,22.3,641.15,4.32,42
+2025,South America,Argentina,15.7,740.71,4.86,40
+2020,North America,Mexico,21.7,517.53,1.24,49
+2025,Africa,South Africa,12.1,433.35,4.35,41
+2024,South America,Brazil,20.9,837.44,2.52,84
+2021,Asia,Indonesia,14.5,182.4,4.58,87
+2021,Africa,Egypt,10.2,238.93,3.41,29
+2023,South America,Argentina,21.5,256.01,2.62,22
+2020,Africa,Egypt,10.4,703.08,1.21,80
+2025,Asia,Pakistan,19.9,231.51,2.98,90
+2020,Oceania,New Zealand,20.6,933.4,1.61,79
+2021,Africa,Kenya,29.5,857.21,1.43,50
+2020,South America,Argentina,28.7,492.21,2.95,82
+2020,Europe,UK,16.5,587.12,3.02,56
+2025,Africa,South Africa,18.8,608.75,3.99,89
+2020,Oceania,New Zealand,23.3,571.04,4.78,83
+2022,South America,Argentina,21.2,598.22,1.68,74
+2022,Africa,Egypt,28.1,998.76,3.2,56
+2021,North America,Canada,27.5,324.11,3.95,46
+2020,Oceania,Australia,26.1,282.15,2.41,42
+2021,Africa,South Africa,34.5,780.77,3.08,88
+2021,North America,Mexico,34.6,204.71,3.72,77
+2021,Europe,Spain,27.7,325.79,2.41,49
+2021,Asia,Pakistan,28.9,367.23,2.81,41
+2021,North America,USA,12.2,628.64,3.26,37
+2023,Europe,UK,27.3,562.55,2.57,25
+2020,Asia,India,29.3,369.97,2.84,49
+2020,Africa,Kenya,12.7,598.08,1.23,28
+2025,North America,Mexico,18.5,494.39,3.99,80
+2025,South America,Argentina,23.7,787.72,4.1,58
+2025,Asia,Pakistan,14.8,764.64,2.38,81
+2020,Africa,Kenya,11.4,918.33,1.36,70
+2020,Africa,Egypt,21.4,294.14,2.57,39
+2021,North America,Canada,22.2,973.73,4.6,23
+2023,North America,Canada,24.4,469.47,1.38,68
+2024,North America,USA,24.4,991.23,1.82,66
+2025,Europe,Spain,10.1,642.43,4.58,35
+2021,Oceania,Australia,19.7,561.29,2.32,53
+2024,Africa,Nigeria,15.3,701.94,4.91,80
+2021,Asia,India,17.3,521.75,4.31,89
+2024,Oceania,Australia,19.7,348.96,4.84,55
+2021,South America,Chile,27.9,656.58,1.01,30
+2025,Europe,Germany,29.8,845.2,4.42,25
+2021,North America,Canada,29,515.77,1.09,50
+2025,Oceania,Australia,20.7,349.67,1.53,59
+2025,Europe,France,14.7,810.43,3.59,60
+2023,Europe,Italy,10.1,305.17,2.61,79
+2025,Europe,UK,31.8,337.93,4.4,37
+2020,North America,Canada,15.2,642.52,1.14,61
+2021,Africa,Kenya,30.1,451.97,4.1,24
+2021,North America,USA,14.4,931.95,4.25,90
+2024,Africa,South Africa,11.1,194.18,2.22,72
+2021,North America,Canada,23.1,202.26,3.89,51
+2024,South America,Brazil,29.4,547.68,4.89,35
+2024,North America,Mexico,10.9,376.82,2.15,70
+2021,South America,Brazil,34.9,796.02,3.47,25
+2022,Oceania,Australia,12.5,391.58,1.98,83
+2022,Europe,Italy,15.2,392.01,2.78,79
+2024,Asia,Indonesia,19.1,788.17,2.02,76
+2020,Oceania,Australia,25,129.8,4.09,35
+2021,Europe,Italy,14,475.59,2.54,76
+2021,Africa,South Africa,10.5,755.4,4.45,21
+2023,South America,Brazil,20.8,615.52,2.5,64
+2025,North America,USA,32.5,482.35,3.37,55
+2024,Asia,India,18.8,159.6,3.37,65
+2020,Asia,Japan,19.5,968.76,2.07,80
+2024,North America,Mexico,34.6,244.98,4.81,43
+2021,South America,Chile,27.4,696.05,3.19,27
+2021,Europe,Spain,21.1,929.31,1.65,73
+2022,Africa,Nigeria,10.1,418.42,1.63,84
+2023,South America,Chile,25.2,343.62,4.09,24
+2022,North America,Mexico,11.7,561.45,3.13,78
+2020,Africa,South Africa,29.9,696.27,2.88,47
+2024,Asia,Pakistan,10.8,806.69,3.42,88
+2022,Asia,India,16,746.69,2.56,25
+2024,Europe,Italy,28.5,104.77,2.41,50
+2020,Asia,Indonesia,26.1,134.79,3.65,47
+2025,Oceania,New Zealand,14.5,919.9,2.81,80
+2021,Europe,UK,32.9,556.21,2.32,89
+2022,North America,USA,31.3,129.04,4.42,69
+2025,North America,USA,34.2,334.87,2.04,43
+2022,Europe,France,28.3,405.61,1.44,55
+2023,Europe,Italy,14,382.36,3.39,25
+2023,Africa,Nigeria,29.9,531.98,1.61,28
+2020,Oceania,Australia,27.9,296.62,2.38,88
+2023,Oceania,Australia,13,344.62,1.5,61
+2024,Asia,China,30.6,802.88,2.96,56
+2023,Asia,Pakistan,10.8,835.77,1.89,82
+2024,Africa,Egypt,35,572.47,2.49,55
+2023,Africa,Egypt,13.4,220.58,4.72,74
+2020,Africa,Egypt,17,267.65,4.25,64
+2025,South America,Chile,15.2,175.51,2.9,76
+2020,Oceania,New Zealand,26.3,902.83,1.86,23
+2023,Asia,China,24.6,855.05,4.17,82
+2022,Europe,Germany,11.2,337.38,4.59,35
+2022,Asia,India,20,670.78,1.37,36
+2023,Oceania,New Zealand,32.4,486.55,3.77,71
+2021,Europe,France,27.1,961.9,4.57,33
+2023,Oceania,New Zealand,28.3,726.88,2.94,61
+2025,Oceania,New Zealand,20.7,320.97,4.9,65
+2022,Asia,Indonesia,25.5,834.13,1.08,28
+2020,Oceania,New Zealand,17.3,111.35,3.75,20
+2024,Oceania,Australia,32.1,727.67,2.37,45
+2022,South America,Brazil,18.7,151.94,1.78,70
+2022,Europe,Spain,20,118.24,1.9,67
+2021,Asia,China,26.1,596.64,4.39,79
+2021,Asia,Japan,25.9,689.26,3.1,80
+2025,North America,USA,26.6,809.12,4.56,37
+2021,Oceania,New Zealand,24.7,353.49,3.6,77
+2023,Africa,Kenya,10.4,731.07,1.38,77
+2020,Asia,Japan,21.8,635.32,2.92,45
+2021,Africa,South Africa,21.7,626.44,1.18,59
+2025,Asia,Pakistan,16.2,555.17,3.13,61
+2025,Europe,Germany,24.4,552.48,1.9,34
+2020,Europe,Italy,31.6,349.9,1.82,80
+2021,South America,Brazil,18.4,856.19,3.24,64
+2022,Asia,China,23.9,710.85,1.93,38
+2023,South America,Argentina,21.1,864.21,2.64,63
+2022,North America,Mexico,16.6,361.96,2.97,52
+2020,Oceania,Australia,26.5,505.9,3.76,26
+2025,South America,Brazil,11.6,170.02,3.24,56
+2023,Asia,China,27.2,197.32,4.11,53
+2025,Europe,Spain,28.4,609.87,3.31,63
+2022,Africa,Egypt,27.9,703.02,4.19,41
+2021,Europe,UK,33.6,566.76,4.16,44
+2021,Oceania,New Zealand,19.1,561.56,4.29,77
+2023,Europe,Italy,30.4,115.77,2.35,75
+2023,Europe,France,20.6,188.87,1.96,75
+2023,Europe,Spain,15.6,235.08,1.9,54
+2021,Oceania,Australia,15.7,254.61,4.36,65
+2022,Africa,South Africa,19.7,843.47,4.48,86
+2025,Oceania,Australia,15.9,766.05,2.58,68
+2020,Europe,UK,18.6,658.11,1.09,47
+2025,North America,Mexico,27.9,236.41,1.84,75
+2024,Asia,India,11.4,440.47,3.38,72
+2022,Oceania,Australia,22.8,696.02,3.5,86
+2020,Asia,Japan,21.5,494.33,1.39,34
+2020,South America,Brazil,15.1,194.75,3.52,90
+2023,Europe,Germany,30.9,720.81,1.99,36
+2020,Europe,UK,15,148.74,4.09,33
+2021,Europe,France,15.5,750.44,2.11,66
+2024,South America,Brazil,34.9,389.6,2.71,89
+2025,North America,Mexico,12.8,791.62,3.78,37
+2020,North America,USA,12.2,436.73,2.92,77
+2024,Africa,South Africa,31.6,299.9,4.52,39
+2021,Oceania,New Zealand,30.6,555.78,3.3,57
+2020,North America,Canada,22.6,941.34,3.14,88
+2021,Oceania,New Zealand,22.4,970.29,2.39,52
+2022,Oceania,New Zealand,15.9,534.46,3.89,30
+2020,Asia,Pakistan,28.3,685.47,3.38,20
+2021,South America,Argentina,21.4,353.11,4.2,25
+2020,North America,USA,23.7,371.76,2.98,90
+2023,Europe,UK,34,455.21,3.08,78
+2020,Oceania,Australia,26,312.25,4.37,64
+2022,Europe,Italy,11.4,234.62,4.32,71
+2024,Oceania,Australia,27.1,337.32,4.9,51
+2023,Europe,Italy,19.6,601.21,1.79,43
+2025,South America,Chile,22.4,819.06,4.28,53
+2021,South America,Argentina,16.4,152.18,3.18,43
+2023,Oceania,New Zealand,18.2,517.2,4.75,67
+2020,Asia,Indonesia,33.8,896.64,2.88,65
+2021,Asia,Japan,12.1,642.52,2.47,78
+2020,Europe,UK,26.6,862.22,1.65,66
+2023,Europe,France,18.8,820.75,2.34,41
+2020,Oceania,Australia,30.9,140.09,3.26,73
+2023,Europe,Spain,10.9,469.6,2.01,38
+2023,Oceania,New Zealand,11.6,403.08,2.5,81
+2022,South America,Brazil,31.8,625.08,2.33,30
+2023,South America,Argentina,19.6,485.24,1.51,41
+2025,Oceania,Australia,16.6,119.75,1.54,37
+2023,North America,Mexico,34.6,131.11,2.79,79
+2020,South America,Brazil,25.2,716.65,1.97,87
+2024,Oceania,Australia,24.7,808.7,3.77,80
+2020,South America,Chile,19.5,481.91,1.85,35
+2023,Oceania,New Zealand,23.1,771.2,4.44,47
+2023,Africa,Kenya,30.3,853.22,3.51,81
+2025,Oceania,Australia,33.7,152.15,2.83,64
+2021,Oceania,Australia,22.9,432.97,3.04,67
+2025,Africa,Kenya,25.1,910.04,2.88,61
+2020,North America,Mexico,14,849.39,1.99,34
+2025,Oceania,New Zealand,34.1,677.78,4.71,79
+2021,Oceania,New Zealand,31.9,741.45,3.96,67
+2022,Oceania,Australia,16.6,259.24,4.79,42
+2024,Oceania,Australia,19.4,916,2.8,47
+2023,Africa,Egypt,21.2,334.27,3.24,63
+2024,Europe,Spain,14.8,773.98,1.47,64
+2024,South America,Brazil,17,633.04,4.35,40
+2023,Africa,Egypt,34.3,704.94,1.27,90
+2023,North America,Canada,19.9,106.86,2.31,72
+2021,Africa,Nigeria,32.3,584.37,4.89,39
+2022,North America,USA,21.9,517.66,1.58,59
+2025,Europe,UK,16.5,133.76,2.92,49
+2023,Africa,Nigeria,13.8,526.4,4.56,76
+2025,Europe,Italy,13.1,948.38,2.06,83
+2023,Europe,Germany,34.2,424.57,2.76,90
+2025,Asia,India,12.6,474.19,2.19,22
+2020,Oceania,New Zealand,10.8,902.03,3.08,68
+2022,Europe,UK,31.9,902.66,4.84,38
+2020,Asia,India,26.9,348.81,1.78,38
+2024,South America,Brazil,25.4,176.8,4.02,79
+2023,South America,Chile,21.8,631.01,3.98,90
+2024,South America,Brazil,20.9,360.28,4.18,84
+2020,Asia,China,20.6,216.31,3.77,47
+2024,North America,Canada,22.7,546.86,4.51,73
+2021,North America,Canada,19.7,901.73,4.81,86
+2020,South America,Chile,21.8,842.63,4.23,87
+2021,Europe,Italy,21.5,240.02,4.27,84
+2024,South America,Brazil,30.9,222.72,1.39,45
+2021,Asia,India,21.9,142.6,2.37,34
+2020,South America,Argentina,27.5,849.01,3.98,73
+2023,South America,Brazil,18.4,251.11,3.72,48
+2021,Europe,Italy,27.9,472.05,1.14,72
+2022,Asia,Pakistan,27.4,722.22,1.3,72
+2022,Asia,Japan,15.5,978.08,4.73,82
+2020,Asia,Indonesia,32,141.96,2.58,80
+2023,North America,Mexico,15.6,852.55,4.16,35
+2021,Africa,Egypt,16.8,960.86,4.07,34
+2020,Asia,Japan,27.1,399.62,3.43,29
+2025,South America,Brazil,33.5,381.88,4.85,29
+2025,North America,Canada,14.2,735.03,2.48,86
+2022,Oceania,New Zealand,16.4,574.5,2.05,80
+2023,North America,USA,14.1,489.83,1.48,55
+2020,Asia,Pakistan,27,294.27,1.66,87
+2023,Asia,Japan,28,247.09,4.37,55
+2021,North America,USA,23.1,791.78,4.22,40
+2020,North America,Mexico,26.7,269.03,1.61,60
+2022,Asia,India,10.7,858.14,1.07,56
+2025,Asia,Indonesia,20.6,747.65,1.12,46
+2021,Africa,South Africa,20.5,838.32,2.15,83
+2025,Africa,Egypt,23,454.66,1.16,71
+2020,South America,Chile,20,612.28,4.6,57
+2021,Oceania,New Zealand,14.5,472.11,3.38,84
+2022,Europe,France,30,274.05,2.74,78
+2021,Oceania,New Zealand,11,815.04,4.06,70
+2021,South America,Argentina,15.1,945.02,3.63,45
+2022,Oceania,New Zealand,10.6,185.92,1.29,51
+2024,Europe,France,13,809.22,4.46,43
+2020,Oceania,New Zealand,27.6,103.32,3.96,38
+2025,South America,Brazil,14.4,988.89,4.35,78
+2023,Asia,Pakistan,12.1,777.89,1.98,40
+2021,North America,Mexico,25.6,436.63,1.65,23
+2021,Asia,Pakistan,27.2,150.82,2.07,55
+2022,North America,Mexico,31.5,962.52,2.02,76
+2022,South America,Argentina,16.5,683.32,1.3,63
+2023,Oceania,New Zealand,32.8,614.15,2.84,38
+2022,Asia,China,28.9,744.51,3.39,78
+2024,Oceania,New Zealand,30.8,807.14,1.35,60
+2024,South America,Argentina,24.6,786.7,4.14,62
+2024,Europe,Spain,10.7,707.91,4.67,43
+2023,Europe,Spain,34.2,142.84,3.19,58
+2021,Oceania,Australia,13.9,866.89,4.24,37
+2022,South America,Argentina,19.7,670.84,2.69,55
+2022,Africa,Nigeria,19.4,326.6,3.27,69
+2020,South America,Chile,28,351.95,4.24,69
+2023,Oceania,Australia,28.8,718.22,2.6,36
+2022,North America,Canada,19.2,644.16,4.85,49
+2023,Africa,South Africa,12.7,201.4,3.64,78
+2020,Asia,Japan,30.6,873.13,4.1,56
+2020,Africa,South Africa,17,346.58,1.59,31
+2020,Oceania,New Zealand,10.5,800.97,3.89,55
+2020,Europe,France,20.5,993.64,4.83,63
+2022,North America,Canada,14.2,960.63,1.08,69
+2020,Africa,Kenya,10.6,175.66,2.65,46
+2023,Oceania,New Zealand,33.6,415.58,1.25,66
+2023,Oceania,Australia,10.1,236.37,2.23,20
+2024,Europe,Spain,33.7,693.72,2.03,63
+2025,Europe,Italy,22.4,717.57,4.33,90
+2024,Europe,UK,13,248.36,1.26,30
+2024,Asia,China,18.5,482.19,1.83,77
+2020,South America,Brazil,26.4,116.45,1.37,80
+2021,Europe,UK,15.7,221.57,3.4,47
+2024,Africa,Egypt,18.7,776.53,1.23,51
+2020,Asia,Pakistan,26.7,531.7,4.64,41
+2021,Asia,Japan,18.4,633.29,4.51,82
+2024,South America,Argentina,25.3,529.08,2.18,33
+2022,South America,Chile,22,384.89,3.78,80
+2021,Africa,Egypt,19.5,572.28,3.74,61
+2022,Europe,UK,33.8,994.6,1.18,79
+2021,Europe,Spain,11.4,164.9,3.91,36
+2024,Oceania,New Zealand,25.7,790.5,3.66,23
+2021,North America,USA,27.6,171.05,3.29,65
+2023,Asia,Pakistan,10.1,736.29,1.36,31
+2024,Asia,Japan,18.8,947.73,3.89,88
+2020,Oceania,New Zealand,22.4,915.45,3.95,23
+2020,Africa,Kenya,13.8,511.57,3.5,30
+2020,Oceania,New Zealand,33.9,464,1.88,47
+2020,Asia,China,14.4,692.94,4.19,79
+2023,Oceania,Australia,24.5,110.88,3.24,87
+2025,South America,Argentina,14.2,869.13,4.72,67
+2025,North America,USA,25.4,338.87,1.06,86
+2023,Africa,South Africa,20.5,798.49,4.3,53
+2024,Oceania,Australia,11,390.76,1.98,23
+2022,South America,Chile,15.3,493.05,4.1,23
+2025,Africa,South Africa,22.9,630.23,3.87,26
+2023,Africa,Kenya,10.3,671.94,3.52,52
+2023,Europe,France,18.9,749.18,4.21,48
+2021,South America,Argentina,34.5,440.99,4.6,23
+2021,Europe,Italy,19.5,994.82,3.56,55
+2023,Africa,Kenya,23,548.52,2.62,68
+2021,Oceania,Australia,33.2,228.33,4.3,59
+2022,Europe,Germany,10.9,992.99,3.58,68
+2022,Oceania,New Zealand,19.5,794.73,2.03,64
+2024,North America,USA,33.1,225.73,2.95,59
+2024,Oceania,Australia,16.2,272.82,4.78,88
+2024,Asia,Pakistan,13.1,433.04,3.58,24
+2025,Europe,UK,14.7,622.73,3.04,51
+2024,Oceania,Australia,26.4,678.06,2.89,54
+2021,South America,Brazil,19.1,974.39,2.46,37
+2021,Asia,Japan,23.1,359.28,4.96,72
+2020,South America,Brazil,18.8,437.31,1.96,49
+2025,North America,USA,27.1,481.41,4.13,34
+2023,South America,Chile,27.7,712.09,3.42,70
+2022,Asia,Indonesia,24.7,593.45,3.74,73
+2025,North America,Mexico,19.3,810.31,4.09,73
+2023,Oceania,New Zealand,33.2,967.91,3.92,38
+2024,Africa,Nigeria,20.5,970.5,4.43,35
+2022,Asia,India,32.3,620.8,1.1,27
+2022,North America,Canada,20.4,529.63,1.79,22
+2025,Asia,Japan,32.3,163.4,1.75,24
+2024,North America,USA,12.7,923.19,3.42,40
+2021,Oceania,Australia,10.2,994.39,2.02,68
+2020,Oceania,New Zealand,18,744.3,2.83,69
+2022,Asia,Pakistan,11.9,128.98,2.83,28
+2023,Asia,Japan,17,384.06,1.05,33
+2023,Europe,Spain,15.4,161.94,4.26,34
+2020,Africa,South Africa,21,172.32,1.91,46
+2024,Africa,Nigeria,21.5,454.33,2.7,34
+2021,Asia,Indonesia,13.3,591.07,3.36,51
+2021,North America,USA,22.2,821.1,3.11,88
+2020,Europe,Germany,26.3,706.05,2.95,79
+2025,Oceania,New Zealand,24.4,710.37,4.57,32
+2020,Oceania,New Zealand,33.7,829.77,1.06,31
+2023,Asia,Japan,18.2,188.86,3.84,88
+2023,North America,Mexico,16.3,541.02,4.11,47
+2025,Europe,UK,34.1,760.72,3.63,76
+2020,Oceania,Australia,14.2,435.13,4.23,43
+2025,Europe,Italy,29.2,208.01,4.51,74
+2023,Africa,Nigeria,11.1,935.86,3.75,41
+2021,Africa,Egypt,30.8,602.28,2.34,83
+2023,North America,Canada,30.1,734.09,1.49,29
+2023,North America,Canada,18.5,250.02,3.36,44
+2025,Oceania,Australia,19.4,863.22,4.49,72
+2022,Europe,Germany,20.1,898.83,3.1,28
+2020,North America,Mexico,27.7,991.76,1.61,72
+2020,Africa,South Africa,26.2,289.9,4.69,58
+2021,North America,Canada,23.5,684.84,4.78,73
+2021,Africa,Kenya,11.7,502.57,1.6,84
+2022,Asia,India,18.6,824.13,4.65,20
+2023,Asia,Pakistan,26.8,413.75,2.41,34
+2022,Oceania,New Zealand,32.5,481.53,3.65,52
+2024,Africa,Kenya,22.5,887.66,1.1,37
+2022,North America,Canada,14.2,945.16,4.12,85
+2024,Oceania,New Zealand,11.8,311.78,4.57,63
+2020,Asia,China,27,533.62,1.83,85
+2021,Africa,Nigeria,19.2,824.92,1.89,43
+2025,Europe,France,25.6,654.76,2.06,44
+2024,South America,Chile,12,968.73,4.57,69
+2021,Oceania,New Zealand,26.1,207.9,4.73,41
+2025,North America,Mexico,16.9,995.93,3.24,26
+2022,North America,USA,27.7,615.19,4.74,46
+2021,North America,USA,16.3,347.33,1.93,47
+2024,Asia,Indonesia,33.4,515.78,4.55,28
+2022,Asia,Pakistan,32.8,614.92,1.24,48
+2024,Europe,Italy,15.7,504.37,3.78,78
+2021,Asia,India,21.3,988.17,2.07,61
+2021,Asia,Indonesia,20,840.48,4.74,76
+2024,North America,USA,19.4,976.83,3.2,71
+2025,Asia,Pakistan,20.8,645.41,2.95,74
+2023,Oceania,New Zealand,22.7,367.93,1.68,78
+2023,Asia,China,16.4,819.14,2,33
+2024,South America,Argentina,13.7,700.82,2.3,27
+2024,Asia,Pakistan,23.2,550.36,1.44,86
+2020,North America,Canada,34.6,392.68,4.86,32
+2020,Africa,Egypt,18,198.15,1.93,70
+2025,Africa,Egypt,17.5,903.5,4.38,27
+2021,Africa,Egypt,26.9,500.5,4.41,48
+2025,Europe,France,15.9,590.17,4.26,77
+2022,Asia,Japan,10,644.63,3.19,22
+2021,Europe,France,33.6,506.65,4.38,26
+2024,South America,Chile,15.2,150.8,2.68,85
+2025,North America,USA,12,905.25,3.01,21
+2025,Europe,France,12.7,722.07,2.37,39
+2023,Oceania,Australia,31.3,195.53,3.48,22
+2025,Asia,India,24.2,974.79,1.5,89
+2021,Asia,Pakistan,16,827.96,4.87,71
+2024,Africa,Kenya,31.6,431.23,2.88,39
+2020,Africa,Egypt,34.8,552.28,1.8,56
+2021,South America,Argentina,17.6,119.4,3.46,52
+2023,Oceania,New Zealand,28,916.36,1.29,85
+2025,North America,USA,29,204.35,3.84,85
+2020,Europe,Germany,26.6,276.44,4.91,47
+2022,South America,Brazil,23.2,416.35,1.23,52
+2020,North America,Canada,30.5,774.79,4.52,59
+2022,Oceania,New Zealand,23.8,563.79,4.54,75
+2021,North America,Mexico,11.9,695.38,3.01,40
+2024,Oceania,New Zealand,20.4,132.18,1.7,70
+2021,Europe,France,31.7,196.99,3.2,76
+2020,North America,USA,26.8,172.85,4.51,69
+2025,South America,Brazil,18.5,420.51,4.46,89
+2023,Africa,Egypt,12.8,409.06,3.02,22
+2020,Asia,Japan,17.3,685.13,2.83,38
+2021,South America,Brazil,29.8,760.64,3.4,74
+2021,Oceania,New Zealand,34.4,391.62,3.82,67
+2022,Asia,Indonesia,11.2,173.18,4.99,55
+2023,Europe,Italy,16.9,784.6,1.36,52
+2023,Europe,Spain,33.2,534.09,4.6,82
+2025,Asia,Pakistan,25,289.65,4.13,75
+2021,North America,Canada,27.2,274.94,1.06,54
